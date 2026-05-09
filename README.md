@@ -24,7 +24,7 @@ I used the clinic's dataset which consists of health-related attributes of patie
 - Class (class): Diabetes outcome (1: diabetes, 0: no diabetes)
 
 ## MLOps & DevOps
-*I utilized GitHub Actions to:*
+*I utilized GitHub Actions to enable MLOps & Devops which allowed me to:*
 - Create a system that automatically loads, cleans, transforms, and preprocesses data whenever new information is ingested
 - Train and fine-tune the model to reflect the latest data
 - Seamlessly deploy the updated model into production without incosistencies
