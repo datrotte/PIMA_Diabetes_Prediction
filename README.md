@@ -13,15 +13,15 @@ I was hired as data scientist to a local the clinic to build a predictive model 
 ## Data Description
 I used the clinic's dataset which consists of health-related attributes of patients, with the following features:
 
-- **Pregnancies** (preg): Number of times the patient has been pregnant
-- **Plasma glucose concentration** (plas): Plasma glucose concentration in an - oral glucose tolerance test
-- **Blood pressure** (pres): Diastolic blood pressure (mm Hg)
-- **Skin thickness** (skin): Triceps skin fold thickness (mm)
-- **Serum insulin** (test): 2-Hour serum insulin (mu U/ml)
-- **Body mass index** (mass): BMI (weight in kg/height in m²)
-- **Diabetes pedigree function** (pedi): A function that scores the likelihood of diabetes based on family history
-- **Age** (age): Age of the patient (years)
-- **Class** (class): Diabetes outcome (1: diabetes, 0: no diabetes)
+- ***Pregnancies*** (preg): Number of times the patient has been pregnant
+- ***Plasma glucose concentration*** (plas): Plasma glucose concentration in an - oral glucose tolerance test
+- ***Blood pressure*** (pres): Diastolic blood pressure (mm Hg)
+- ***Skin thickness*** (skin): Triceps skin fold thickness (mm)
+- ***Serum insulin*** (test): 2-Hour serum insulin (mu U/ml)
+- ***Body mass index*** (mass): BMI (weight in kg/height in m²)
+- ***Diabetes pedigree function*** (pedi): A function that scores the likelihood of diabetes based on family history
+- ***Age*** (age): Age of the patient (years)
+- ***Class*** (class): Diabetes outcome (1: diabetes, 0: no diabetes)
 
 ## MLOps & DevOps
 *I utilized GitHub Actions to enable MLOps & Devops which allowed me to:*
