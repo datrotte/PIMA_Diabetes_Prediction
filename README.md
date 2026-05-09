@@ -11,7 +11,7 @@ The clinic seeks to leverage machine learning models to predict diabetes risk an
 I was hired as data scientist to a local the clinic to build a predictive model that can classify whether or not a patient is likely to have diabetes based on their health attributes. I developed a machine learning pipeline using a Gradient Boosting classifier to analyze patient data and predict diabetes outcomes (class label 1: diabetes, 0: no diabetes). I also peformed MLOps to deploy this model and enable real-time predictions for clinical use.
 
 ## Data Description
-I used the clinic's dataset which consists of health-related attributes of patients, with the following features:
+I used the *Pima Indians Diabetes Dataset* which consists of health-related attributes of patients, with the following features:
 
 - ***Pregnancies*** (preg): Number of times the patient has been pregnant
 - ***Plasma glucose concentration*** (plas): Plasma glucose concentration in an - oral glucose tolerance test
